@@ -1,0 +1,49 @@
+ul{
+    color: #292c31;
+   
+
+}
+
+ul li a{
+    cursor: pointer;
+   
+}
+body{
+    height: 2000px;
+}
+.inputbox{
+   
+    height: 40px;
+    
+}
+.button5{
+    text-decoration: none;
+}
+.buy{
+    font-size: 32px;
+    line-height: 40px;
+    letter-spacing: -0.4px;
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    font-family: TondoBold, sans-serif
+}
+.fiberplan{
+    background-image: url('https://assets.airtel.in/static-assets/home-recast/images/conversational-widget-bg-web.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height:auto; /* 100vh;*/
+}
+.carousel-container {
+    padding-top: 50px;
+  }
+  
+ /* @media only screen and (max-width: 767px) {
+    .carousel-container {
+      padding-top: 20px;
+    }
+  }*/
+  
+
+
